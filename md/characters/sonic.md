@@ -54,6 +54,7 @@ Below is a list of this characters technical data for modders.
 |--------:|:---------------:|:---------------:|:-----------:|:----------------:|:----------:|:-----------:|:------|
 | Battle Mode Portrait | ``0x118B68`` | ``0x10DD04`` | Yes | 28 | 8 | 10 | See [Battle Portraits](?a=formats/portraits#battle).
 | Spritesheet | ``0x47AFD8`` | ``0x47AFB8`` | No | | -- | -- | See [Character Sprites](?a=formats/charactersprites).
+| Story Mode Map Spritesheet | ``0x184C6C`` | ``184C4C`` | Yes | 369 | 4 | 36 | See [Character Sprites](?a=formats/charactersprites).
 | Life Icon | ``0x3251D4`` | ``0x47AFB8`` | No | | 2 | 2 |
 | Lifebar | ``0x322154`` | ``0x47AFB8`` | No | | 8 | 4 |
 | Neutral (Story) | ``0x1AA97C`` |``0x1AA95C`` | Yes | 399 | 8 | 18 | See [Story Portraits](?a=formats/portraits#story).
