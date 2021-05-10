@@ -24,8 +24,6 @@ Graphics that are [LZ compressed](?a=formats/lzcompression) and must be viewed w
 
 ### Story
 
-*See [Story](?a=formats/story/index) for more.*
-
 **[Story Text](?a=formats/story/text) - Format of story text.**
 
 **[Story Animation and Encounters](?a=formats/story/animations) - Animations and story encounters.**
