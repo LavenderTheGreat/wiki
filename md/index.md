@@ -2,6 +2,8 @@
     <img src="res/logo.png">
     <br>
     <i>Sonic Battle Modding and Gameplay Wiki</i>
+    <br><br>
+    <b>This wiki is a large work in progress!</b><br> <i>While what's on it may be correct, it may not be complete, with your help, we can complete it! See <a href="?a=projects/index"><b>our projects list</b></a> to see what you can help with!</i>
 </p>
 
 <p align="center">
