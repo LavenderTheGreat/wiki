@@ -19,31 +19,6 @@
 
 Sonic is an all rounder character designed for beginners, with relatively straight forward moves mapped to all buttons and not many special mechanics. On the technical end, Sonic begins the bulk of character related sets of data and is typically the character used to test this data.
 
-## Moveset
-
-### Standard Combo
-
-<table class="movedata">
-    <tr>
-        <th>Info</th>
-        <th>Damage</th>
-        <th>Start-up</th>
-        <th>Active</th>
-        <th>Recovery</th>
-    </tr>
-    <tr>
-        <td>
-            <img src="res/portraits/sonic.png">
-            <br>
-            A basic, incredibly weak punch.
-        </td>
-        <td>--</td>
-        <td>8</td>
-        <td>2</td>
-        <td>5</td>
-    </tr>
-</table> 
-
 ## Technical Data
 
 Below is a list of this characters technical data for modders. 
